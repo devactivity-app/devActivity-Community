@@ -5,7 +5,7 @@
 - 🐞 [Bug Report](https://github.com/orgs/dev-activity/discussions/categories/report-a-bug)
 
 ### See also
-- [Demo](https://demo.devactivity.com)
+- [Live Demo](https://demo.devactivity.com)
 - Install [GitHub App](https://github.com/apps/devactivity-app) to get started
 
 ### What is [devActivity](https://devactivity.com)?
@@ -14,4 +14,5 @@
 - 🎗 Peer Recognition Awards
 - 📈 Contributions & Work Quality Analytics
 - 🔔 Configurable Alerts
-- ⚡ Slack Integration 
+- ⚡ Slack Integration
+- and much more!
