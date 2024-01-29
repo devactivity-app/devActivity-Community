@@ -6,7 +6,7 @@
 
 ### See also
 - [Live Demo](https://demo.devactivity.com)
-- Install [GitHub App](https://github.com/apps/devactivity-app) to get started
+- Install [devActivity App](https://github.com/apps/devactivity-app) to get started
 
 ### What is [devActivity](https://devactivity.com)?
 - 🏆 XP, Levels, Achievements, Leaderboard based on Contributions
